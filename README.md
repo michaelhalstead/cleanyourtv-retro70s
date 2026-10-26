@@ -24,7 +24,7 @@ not done that yet, follow the cleanyourtv README first.
 ## Install
 
 ```bash
-git clone https://github.com/<you>/cleanyourtv-retro70s
+git clone https://github.com/michaelhalstead/cleanyourtv-retro70s
 TV_HOST=192.168.1.50 cleanyourtv-retro70s/install.sh path/to/cleanyourtv
 ```
 
