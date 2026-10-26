@@ -1,0 +1,42 @@
+{
+  "background_color": "#000000",
+  "wallpaper": true,
+  "dock_glass": false,
+  "icon_only_buttons": true,
+  "app_glow": false,
+  "focus_overshoot": false,
+  "advanced_effects": true,
+  "dock_apps": [
+    "com.netflix.ninja",
+    "org.smarttube.stable",
+    "com.wbd.stream",
+    "com.disney.disneyplus"
+  ],
+  "ambient_glow": false,
+  "app_banners": [
+    "com.netflix.ninja=banner_retro_netflix_lines",
+    "org.smarttube.stable=banner_retro_youtube_tv",
+    "com.wbd.stream=banner_retro_hbomax",
+    "com.disney.disneyplus=banner_retro_disney_slat",
+    "com.amcplus.amcandroidtv=banner_retro_amc_diamond",
+    "com.aurora.store=banner_retro_aurora",
+    "com.crunchyroll.crunchyroid=banner_retro_crunchyroll",
+    "com.hisense.tv.protector=banner_retro_protector",
+    "air.com.vudu.air.DownloaderTablet=banner_retro_fandango",
+    "com.jamdeo.tv.mediacenter=banner_retro_media",
+    "com.cbs.ott=banner_retro_paramount",
+    "org.jellyfin.androidtv=banner_retro_jellyfin",
+    "com.android.vending=banner_retro_play",
+    "com.amazon.amazonvideo.livingroom=banner_retro_prime_echo",
+    "com.android.tv.settings=banner_retro_settings",
+    "com.peacocktv.peacockandroid=banner_retro_peacock",
+    "io.github.maxhayim.sources=banner_retro_sources"
+  ],
+  "dock_band": false,
+  "glass_style": "rim",
+  "show_greeting": false,
+  "dock_title": false,
+  "glow_style": "horizon",
+  "wallpaper_true_color": true,
+  "icon_only_inputs": true
+}
